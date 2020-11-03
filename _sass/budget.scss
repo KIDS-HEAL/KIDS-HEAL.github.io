@@ -1,0 +1,20 @@
+.budget .table-responsive {
+  font-size: 14pt;
+  padding: 10px 20px;
+}
+
+.budget .table-striped>tbody>tr:nth-of-type(odd) {
+  background-color: $blue-color-dark;
+}
+
+.budget table thead th {
+  text-align: right;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  border-top: 1px solid $blue-color-light;
+}
+
+.budget table td {
+  text-align: right;
+}

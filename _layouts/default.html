@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html fonts=page.fonts css=page.css css-pre=page.css-pre css-post=page.css-post %}
+
+  <body>
+
+    <div class="container-fluid">
+
+      {% include nav.html %}
+
+      {{ content }}
+
+      {% include footer.html %}
+
+    </div>
+
+    {% include js-includes.html js=page.js %}
+
+  </body>
+
+</html>

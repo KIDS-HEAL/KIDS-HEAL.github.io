@@ -1,0 +1,74 @@
+---
+- ep    : 1
+  title : "Georgia O'Keeffe + Stress + Tomatoes"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/182058588
+  thumb : img/film_thumbs/season-2/ep1.jpg
+- ep    : 2
+  title : "Frida Kahlo + Chemo & Compassion + World History According to Tacos"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/188605094
+  thumb : img/film_thumbs/season-2/ep2.jpg
+- ep    : 3
+  title : "Super Artists + Super Grains + Super Ninjas"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/191672206
+  thumb : img/film_thumbs/season-2/Ep3.jpg
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S2E3PRE
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S2E3POST1
+- ep    : 4
+  title : 
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ComingSoon.jpg
+- ep    : 5
+  title : "Cinque and the Amistad + Jesse Owens and the Olympics + Jean-Michel Basquiat + Mangos"
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ep5.jpg
+  url   : https://player.vimeo.com/video/201106490
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S2E5PRE
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S2E5POST
+- ep    : 6
+  title : 
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ComingSoon.jpg
+- ep    : 7
+  title : "Crossfit Career Training + MC Escher + Blueberries"
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ep7.jpg
+  url   : https://player.vimeo.com/video/207064495
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S2E7PRE
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S2E7POST
+- ep    : 8
+  title : 
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ComingSoon.jpg
+- ep    : 9
+  title : "Andy Goldsworthy + Change + Cancer Education Sandwich"
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ep9.jpg
+  url   : https://player.vimeo.com/video/215285656
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S2E9PRE
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S2E9POST
+...
+

@@ -1,0 +1,28 @@
+.donate-page {
+  background-color: $blue-color;
+}
+
+.donate-page .row {
+  margin-bottom: 20px;
+}
+
+.donate {
+  background-color: $blue-color-light;
+  background-image: none;
+  border-color: $blue-color-dark;
+  text-align: center;
+
+  p {
+    color: $black-color;
+    margin: 0 0 20px 0;
+  }
+}
+
+.donate-btn {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+address {
+  width: 200px;
+}

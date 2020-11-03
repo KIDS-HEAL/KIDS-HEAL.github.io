@@ -1,0 +1,56 @@
+---
+- title : Sun Safety - Tips from a Dermatologist
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/134792740
+  thumb : img/film_thumbs/segments/sun_safety.jpg
+
+- title : Calder
+  desc  : "Alexander \"Sandy\" Calder drew with wire, creating art that moved with the wind."
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/145912783
+  thumb : img/film_thumbs/segments/calder.jpg
+
+- title : Balance
+  desc  : Balance is important in everything we do. We balance our work and play, diet and exercise, schedules, checkbooks...the list goes on and on. So we made a song.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/145740582
+  thumb : img/film_thumbs/segments/balance.jpg
+
+- title : "World History According to: Grapes"
+  desc  : "Grapes are a fantastic berry that serves us well. We're exploring how grapes help us balance a healthy lifestyle, while still getting our sweet fix. Grapes are crushing it!"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/145103811
+  thumb : img/film_thumbs/segments/grapes.jpg
+
+- title : KIDS-HEAL Mission
+  desc  : KIDS-HEAL is a statewide, school-based, student-driven, parent-run, after-school arts+healthcare learning laboratory.\nIts mission is to improve the creative and physical health of children and their families across the state of Oregon and Southwest Washington.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/141001562
+  thumb : img/film_thumbs/segments/mission.jpg
+
+- title : What is Blood Cancer (Leukemia)?
+  desc  : September is Pediatric Cancer Awareness Month. Episode 1 looks at what leukemia means and some of the parts of our blood.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/138024005
+  thumb : img/film_thumbs/segments/leukemia.jpg
+
+- title : World History According to a Watermelon
+  desc  : Seedy takes us through the history of the delicious and healthy watermelons.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/137706401
+  thumb : img/film_thumbs/segments/watermelon.jpg
+
+- title : Vincent Van Gogh
+  desc  : Vincent Van Gogh was an original struggling artist. We explore his life through his art in episode 1.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/137704276
+  thumb : img/film_thumbs/segments/van_gogh.jpg
+...

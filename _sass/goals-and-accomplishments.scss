@@ -1,0 +1,37 @@
+.goal-section {
+
+  h3 {
+    color: $orange-color;
+    font-size: 28pt;
+    margin-bottom: 20px;
+  }
+
+  .goals dt {
+    font-size: 14pt;
+    white-space: normal;
+    margin-bottom: 18px;
+    padding: 1px;
+  }
+
+  .goals dd {
+    font-size: 14pt;
+    margin-bottom: 18px;
+    background-color: $blue-color-dark;
+    padding: 10px;
+    border: 1px solid $blue-color-light;
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .35);
+  }
+}
+
+.footnote-alert {
+  color: $white-color;
+  font-weight: 700;
+  text-shadow: 2px 2px rgba(0, 0, 0, .4);
+  padding: 10px 30px;
+  background-color: $orange-color;
+  border: 1px solid $orange-color-dark;
+  box-shadow: 0 0 30px rgba(0, 0, 0, .25);
+  margin: 40px 0;
+  //  background-image: linear-gradient(to right, $orange-color-dark 0%, $orange-color 2%, $orange-color 98%, $orange-color-dark 100%);
+}

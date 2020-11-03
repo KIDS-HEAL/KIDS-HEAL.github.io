@@ -1,0 +1,322 @@
+---
+---
+
+@import "hacks", "responsive-sizes", "colors", "nav", "footer";
+
+body {
+  background-color: $supper-club-bg;
+  font-family: 'EB Garamond', serif;
+}
+
+a {
+  color: $orange-color;
+  text-shadow: 1px 1px rgba(0,0,0,.5);;
+}
+
+.supper-club-page {
+
+  text-align: center;
+  margin-bottom: 30px;
+
+  .col-1,
+  .col-2 {
+    max-width: 560px;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    .paper {
+      background-image: url("/img/supper-club/paper.png");
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+    }
+  }
+
+  @media (max-width: $screen-sm-min) {
+    .paper {
+      background-color: #fff7de;
+    }
+  }
+
+  img {
+    margin-bottom: 20px;
+  }
+
+  .supper-club-menu {
+
+    h1 {
+      margin: 0;
+      padding-top: 50px;
+
+      @media (min-width: $screen-sm-min) {
+        .embellishment {
+          display: inline-block;
+          width: 33px;
+          height: 19px;
+          margin: 0 8px;
+          background-image: url("/img/supper-club/embellishment01.png");
+          background-repeat: no-repeat;
+        }
+        .embellishment.left {
+          background-position: 0px 0;
+        }
+        .embellishment.right {
+          background-position: -33px 0;
+        }
+      }
+    }
+
+    h2 {
+      margin: 20px 0 15px 0;
+      font-size: 16pt;
+      font-weight: 700;
+      color: #333333;
+      @media (min-width: $screen-sm-min) {
+        .embellishment {
+          display: inline-block;
+          width: 44px;
+          height: 15px;
+          margin: 0 8px;
+          background-image: url("/img/supper-club/embellishment02.png");
+          background-repeat: no-repeat;
+        }
+        .embellishment.left {
+          background-position: 0px 0;
+        }
+        .embellishment.right {
+          background-position: -44px 0;
+        }
+      }
+    }
+
+    h2.menu-desc {
+      font-size: 14pt;
+      margin-top: 10px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0 20px;
+    }
+
+    li {
+      font-size: 12pt;
+    }
+
+    .flags {
+      margin: 30px auto 0 auto;
+      padding-bottom: 30px;
+    }
+  }
+
+  .the-forgotten-corner {
+    background-color: #4a0200;
+    border: 1px solid #000;
+    margin: 20px auto 0 auto;
+    padding: 0px 20px;
+    h1 {
+      color: $yellow-color;
+      padding: 0;
+      margin: 15px 0 15px 0;
+    }
+
+    p {
+      color: #ffffff;
+      font-family: 'Roboto Condensed', sans-serif;
+      margin-left: 0;
+      font-size: 14pt;
+      text-align: left;
+    }
+
+    p.special-message {
+      font-size: 16pt;
+      font-weight: 600;
+      color: $kh-blue-color;
+    }
+
+    p.reservations {
+      text-align: center;
+      margin-top: 25px;
+      margin-bottom: 25px;
+
+      a {
+        color: $yellow-color;
+        text-decoration: none;
+        border: 1px solid $yellow-color-dark;
+        padding: 8px 15px;
+      }
+
+      a:hover,
+      a:focus {
+        color: #000;
+        background-color: $yellow-color;
+      }
+    }
+
+    p.custom-dinners {
+      color: $green-color;
+      font-style: italic;
+    }
+  }
+}
+
+.seatings {
+
+  .row {
+    margin: 20px 0;
+  }
+
+  h2 {
+    font-size: 18pt;
+    color: $yellow-color;
+  }
+
+  p {
+    margin-bottom: 0;
+    font-size: 14pt;
+    color: $white-color;
+  }
+
+  .heading {
+    max-width: 731px;
+    margin: 0 auto;
+    padding: 15px 0;
+    background-color: #4a0200;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .6) inset;
+
+    text-align: center;
+
+    h1 {
+      margin: 8px 0 8px 0;
+      font-size: 22pt;
+      font-weight: 700;
+      color: $white-color;
+    }
+
+    h2 {
+      margin: 12px 0 12px 0;
+      font-style: italic;
+      font-weight: 700;
+    }
+
+    h2.dinner-title {
+      margin: 20px 0 12px 0;
+      font-style: normal;
+
+      @media (min-width: $screen-sm-min) {
+
+        .embellishment {
+          display: inline-block;
+          background-image: url("/img/supper-club/embellishment03.png");
+          width: 33px;
+          height: 19px;
+          margin: 0 8px;
+        }
+        .embellishment.left {
+          background-position: 0px 0;
+        }
+        .embellishment.right {
+          background-position: -33px 0;
+        }
+      }
+    }
+
+    img {
+      margin: 10px 0;
+    }
+
+    .nights {
+      font-size: 18pt;
+      font-weight: 700;
+    }
+  }
+
+  .seating-box {
+    max-width: 731px;
+    margin: 0 auto;
+    border: 1px solid #888888;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .75);
+
+    .heading {
+      padding: 0;
+      background-color: $black-color;
+
+      h2{
+        font-style: normal;
+        margin: 10px 15px;
+      }
+
+      .sold-out {
+        color: #ff0000;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    }
+
+    img {
+      background-color: #1c4756;
+      padding: 40px 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, .75) inset;
+    }
+  }
+
+  @media (min-width: $screen-sm-min) {
+    .paper {
+      max-width: 560px;
+      background-image: url("/img/supper-club/paper_small.png");
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+    }
+  }
+
+  @media (max-width: $screen-sm-min) {
+    .paper {
+      background-color: #fff7de;
+    }
+  }
+
+  .supper-club-series {
+    margin-bottom: 20px;
+    text-shadow: none;
+    text-align: center;
+    color: #000;
+
+    padding: 30px 40px;
+
+    h1 {
+      font-weight: 700;
+      color: #333333;
+    }
+
+    h2 {
+      color: #000;
+      font-weight: 700;
+      color: #333333;
+    }
+
+    h3 {
+      margin-top: 0px;
+      font-size: 12pt;
+      font-style: italic;
+      font-weight: 700;
+      color: #333333;
+    }
+
+    li {
+      font-size: 14pt;
+      text-shadow: none;
+    }
+
+    ul {
+      margin-top: 10px;
+      list-style: none;
+      padding: 0;
+    }
+
+    .flags {
+      margin-top: 30px;
+      margin-bottom: 0;
+      padding-bottom: 30px;
+
+    }
+  }
+}

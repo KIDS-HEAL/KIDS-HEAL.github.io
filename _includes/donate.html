@@ -1,0 +1,46 @@
+<div class="donate-page">
+  <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <h2>Please support {{ site.data.business.name }} today!</h2>
+      <p>{{ site.data.business.name }} invites you to join us in our mission to improve the creative, physical and emotional health of children in the Forgotten Corner of Oregon. Your financial support will enable us to continue replicating our mission throughout Southeast Oregon. All of our in-classroom and online lessons are free to schools and anyone who wants to log on and join us. We believe in free access to arts+health learning, no matter where you are.</p>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4">
+      <div class="well donate clearfix">
+        <p>Make a donation online via PayPal.</p>
+        <div class="donate-btn center-block">
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post"
+                target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="CEB5ZSZ5Q6H34">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0"
+                   name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <p>You can also make checks payable to “{{ site.data.business.name }}” and mail them to:</p>
+      <address class="center-block">
+        <strong>{{ site.data.business.name }}</strong><br>
+        {{ site.data.business.address1 }}<br>
+        {{ site.data.business.address2 }}<br>
+        {{ site.data.business.city }}, {{ site.data.business.state-abbrev }} {{ site.data.business.zipcode }}<br>
+      </address>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+  <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <p class="footnote-alert">{{ site.data.business.tax-info }} Our tax ID number is <strong>{{ site.data.business.tax-id }}</strong></p>
+      <p>Thank you so much for supporting {{ site.data.business.name }}.</p>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+</div>

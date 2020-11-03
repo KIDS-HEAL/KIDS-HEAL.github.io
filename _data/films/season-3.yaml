@@ -1,0 +1,78 @@
+- ep    : 1
+  title : 
+  width : 500
+  height: 281
+  url   : 
+  thumb : img/film_thumbs/season-2/ComingSoon.jpg
+  buttons :
+    - title: PRE Survey
+      url  : 
+    - title: POST Survey
+      url  : 
+- ep    : 2
+  title : "Mexican History Month + Dia De Los Muertos"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/237360372
+  thumb : img/film_thumbs/season-2/S3E1.jpg
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S3E2pre
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S3E2Post
+- ep    : 3
+  title : 
+  width : 500
+  height: 281
+  url   : 
+  thumb : img/film_thumbs/season-2/ComingSoon.jpg
+  buttons :
+    - title: PRE Survey
+      url  : 
+    - title: POST Survey
+      url  : 
+- ep    : 4
+  title : GERMS
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/245702651
+  thumb : img/film_thumbs/season-2/s3e4px.jpg
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S3E4pre
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S3E4Post
+- ep    : 5
+  title : 
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/ComingSoon.jpg
+  url   : 
+  buttons :
+    - title: PRE Survey
+      url  : 
+    - title: POST Survey
+      url  : 
+- ep    : 6
+  title : Chinese History Month
+  width : 500
+  height: 281
+  thumb : img/film_thumbs/season-2/s3ep6.jpg
+  url   : https://player.vimeo.com/video/250365133
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S3E6pre
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S3E6post
+- ep    : 7
+  title : "Color, Paint By Dash And Dot"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/241293289
+  thumb : img/film_thumbs/season-2/s3e7.jpg
+  buttons :
+    - title: PRE Survey
+      url  : https://www.surveymonkey.com/r/S3E7Pre
+    - title: POST Survey
+      url  : https://www.surveymonkey.com/r/S3E7Post
+...

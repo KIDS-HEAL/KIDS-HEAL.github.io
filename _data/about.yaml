@@ -1,0 +1,19 @@
+---
+- title     : The Forgotten Corner of Oregon
+  thumb     : /img/forgotten-corner-map-thumb.jpg
+  thumb-alt : "Map showing The Forgotten Corner of Oregon."
+  url       : /html/forgotten-corner.html
+
+- title     : Mission
+  thumb     : /img/mission-thumb.jpg
+  thumb-alt : "A child paints."
+  url       : /html/mission.html
+
+- title     : Budget & Four-Year Plan
+  thumb     : /img/budget-thumb.jpg
+  url       : /html/budget.html
+
+- title     : Goals & Accomplishments
+  thumb     : /img/goals-thumb.jpg
+  url       : /html/goals-and-accomplishments.html
+...

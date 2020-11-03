@@ -1,0 +1,91 @@
+---
+layout: default
+css-post:
+-  /css/supper-club.css
+fonts:
+- "https://fonts.googleapis.com/css?family=EB+Garamond"
+
+chap-red-color       : "#ff0000"
+chap-orange-color    : "#ffb947"
+chap-green-color     : "#87bc4b"
+chap-purple-color    : "#6c32ed"
+kh-purple-color      : "#6d40ea"
+kh-green-color       : "#87bc4b"
+kh-orange-color      : "#ff8000"
+kh-blue-color        : "#3a9ff9"
+kh-pink-color        : "#ff0080"
+---
+{% assign series = site.data.supper-club.series %}
+<div class="seatings">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="heading">
+        <h1><span style="color: {{ page.chap-red-color }};">Children’s</span> <span style="color: {{ page.chap-orange-color }};">Healing</span> <span style="color: {{ page.chap-green-color }};">Art</span> <span style="color: {{ page.chap-purple-color }};">Project</span> (<span style="color: {{ page.chap-red-color }};">C</span><span style="color: {{ page.chap-orange-color }};">H</span><span style="color: {{ page.chap-green-color }};">A</span><span style="color: {{ page.chap-purple-color }};">P</span>)</h1>
+        <h2>founder</h2>
+        <h1 style="color: #37b6f7">Frank Etxaniz</h1>
+        <h2>introduces his new non-profit</h2>
+        <h1><span style="color: {{ page.kh-purple-color }};">KIDS-</span><span style="color: {{ page.kh-green-color }};">H</span><span style="color: {{ page.kh-orange-color }};">E</span><span style="color: {{ page.kh-blue-color }};">A</span><span style="color: {{ page.kh-pink-color }};">L</span></h1>
+
+        <h1>(<span style="color: {{ page.kh-green-color }};">Health</span> <span style="color: {{ page.kh-orange-color }};">Education</span> <span style="color: {{ page.kh-blue-color }};">Arts</span> <span style="color: {{ page.kh-pink-color }};">Laboratory</span>)</h1>
+
+        <h2>thru</h2>
+        <h1>Golden Door Supper Club</h1>
+        <h2 class="dinner-title"><span class="embellishment left"></span>BASQUE'ANESE<span class="embellishment right"></span></h2>
+        <p class="nights">3 nights only</p>
+        <img src="/img/supper-club/embellishment04.png" />
+        <p>For reservations, please email: <a href="mailto:GoldenDoorSupperClub@KIDS-HEAL.org">GoldenDoorSupperClub@KIDS-HEAL.org</a></p>
+        <p>Or call: {{ site.data.frank.phone }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="seating-box">
+        <div class="heading clearfix">
+          <h2 class="pull-left">Friday, April 29th @ 7pm</h2>
+          <h2 class="pull-right sold-out">SOLD OUT</h2>
+        </div>
+        <img src="/img/supper-club/seating01.png" class="img-responsive"/>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="seating-box">
+        <div class="heading clearfix">
+          <h2 class="pull-left">Saturday, April 30th @ 7pm</h2>
+          <h2 class="pull-right">18 seats available.</h2>
+        </div>
+        <img src="/img/supper-club/seating03.png" class="img-responsive"/>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="seating-box">
+        <div class="heading clearfix">
+          <h2 class="pull-left">Sunday, May 1st @ 6pm</h2>
+          <h2 class="pull-right">25 seats available.</h2>
+        </div>
+        <img src="/img/supper-club/seating02.png" class="img-responsive"/>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="supper-club-series paper center-block">
+        <h1>Golden Door Supper Club Series</h1>
+        {% for d in series.dinners %}
+        <h2>{{ d.title }}</h2>
+        <h3>{{ d.sub }}</h3>
+        <ul>
+          {% for x in d.info %}
+          <li>{{ x }}</li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+        <img src="/img/supper-club/flags.png" class="flags img-responsive center-block"/>
+      </div>
+    </div>
+  </div>
+</div>

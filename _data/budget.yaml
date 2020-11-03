@@ -1,0 +1,56 @@
+---
+title  : Budget & Four-Year Plan
+desc   : KIDS-HEAL compiled six months of research before initiating classes at South Baker Intermediary in Baker City. We are excited about implementing the lessons we’ve learned in Baker City and expanding them into Jordan Valley, and later this year into Crane—offering services in three of the four counties in the Forgotten Corner of Oregon. This slow expansion will enable us to build solid foundations in each community before moving on to the next. Our long-term goal, by the end of Year Four, is to have successful and sustainable programming in learning outposts on the Oregon Arts+Health Trail running through all four counties.
+fields : [Year 1, Year 2, Year 3, Year 4]
+data   :
+  - title : Executive Director
+    amount: ["60,000","65,000","70,000","50,000"]
+
+  - title : Intern/Docu-Assistant
+    amount: ["","","","25,000"]
+
+  - title : Managing Director
+    amount: ["","40,000","50,000",""]
+
+  - title : Frank/Creative Director
+    amount: ["","","","50,000"]
+
+  - title : Rent
+    amount: ["Donated","Donated","6,000","6,000"]
+
+  - title : Utilities
+    amount: ["Donated","Donated","2,000","2,000"]
+
+  - title : Telephone/Internet/Website
+    amount: ["5,000","3,000","3,000","3,000"]
+
+  - title : Art/Food/Sports
+    amount: ["10,000","12,500","15,000","15,000"]
+
+  - title : DO/Multi-site Insurance
+    amount: ["3,000","3,000","3,000","3,000"]
+
+  - title : Car
+    amount: ["5,000","5,000","5,000","5,000"]
+
+  - title : Travel/Gas/Lodging/Food
+    amount: ["10,000","12,500","15,000","15,000"]
+
+  - title : Office Supplies
+    amount: ["2,000","2,000","2,000","2,000"]
+
+  - title : Printing/Mailing
+    amount: ["5,000","5,000","5,000","5,000"]
+
+  - title : Accounting
+    amount: ["5,000","5,000","5,000","5,000"]
+
+  - title : Miscellaneous
+    amount: ["10,000","10,000","10,000","10,000"]
+
+  - title : Incoming from Grants
+    amount: ["+10,000","+15,000","+20,000","+20,000"]
+
+  - title : Total
+    amount: ["125,000","178,000","211,000","216,000"]
+...

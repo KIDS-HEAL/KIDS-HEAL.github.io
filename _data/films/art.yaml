@@ -1,0 +1,98 @@
+---
+- title : Color
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/232754522
+  thumb : img/film_thumbs/art/color.jpg 
+
+- title : Andy Goldsworthy
+  desc  : Goldsworthy creates art using nature as his medium..
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/215290418
+  thumb : img/film_thumbs/art/andygoldsworthy.jpg
+
+- title : Georgia OKeeffe
+  desc  : One of the first famous female artists!
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/182513585
+  thumb : img/film_thumbs/art/georgiaokeeffe.jpg 
+
+- title : MC Escher
+  desc  : Not a rapper, MC Escher was a poor student as far as grades go, but he was a scholar in art.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/206452784
+  thumb : img/film_thumbs/art/mcescher.jpg 
+
+- title : Jean-Michel Basquiat
+  desc  : A wild and wonderful artist who took the world by surprise.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/201111042
+  thumb : img/film_thumbs/art/jeanbasquiat.jpg 
+
+- title : Super Artists!
+  desc  : A super combo of amazing artists.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/194579965
+  thumb : img/film_thumbs/art/superartists.jpg 
+
+- title : Frida Khalo
+  desc  : Frida struggled with her health and used her art to heal.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/188605094
+  thumb : img/film_thumbs/art/fridakahlo.jpg
+
+- title : Picasso
+  desc  : One of the most important figures in 20th century art.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263971474
+  thumb : img/film_thumbs/art/picasso.jpg 
+
+- title : Calder
+  desc  : "Alexander \"Sandy\" Calder drew with wire, creating art that moved with the wind."
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/145912783
+  thumb : img/film_thumbs/segments/calder.jpg
+
+- title : Magritte
+  desc  : A master of surrealism.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263970500
+  thumb : img/film_thumbs/art/magritte.jpg
+
+- title : Keith Haring
+  desc  : A funky, fun artist with a unique style
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263969088
+  thumb : img/film_thumbs/art/haring.jpg
+
+- title : Leonardo Da Vinci
+  desc  : A funky, fun artist with a unique style
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263967449
+  thumb : img/film_thumbs/art/davinci.jpg
+
+- title : Cave Paintings
+  desc  : A look at the beginning of art, like the very beginning. 
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263965419
+  thumb : img/film_thumbs/art/cavepaintings.jpg
+
+- title : Vincent Van Gogh
+  desc  : Vincent Van Gogh was an original struggling artist. We explore his life through his art in episode 1.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/137704276
+  thumb : img/film_thumbs/segments/van_gogh.jpg
+...

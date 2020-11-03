@@ -1,0 +1,30 @@
+---
+dinners:
+
+  - title: "BASQUE’ANESE #1"
+    sub  : Half Basque, Half Japanese Meal
+    info :
+      - $600 per person…$500 is tax deductible
+      - $17,000 unrestricted funding in the bank.
+
+  - title: "WILD BEAST FEAST #1"
+    sub  : The Best of Oregon
+    info :
+      - Elk-a-sore-us-wrecks stroganoff, Mandarin pheasant, to rattlesnake hors oeuvres and huckleberry something or other.
+      - $1,000 per person…$850 is tax deductible
+      - $28,900 unrestricted funding in the bank.
+
+  - title: "PDX ALLSTARS #1"
+    sub  : Exquisite Seemingly Endless Course Meal
+    info :
+      - A meal built on 6 vintage wines with 18 of Portland’s best restaurants.
+      - $1,500 per person…$1,200 is tax deductible…$10,000 for drinks
+      - $40,800 unrestricted funding in the bank.
+
+  - title: "HOLY TRINITY #1"
+    sub  : Trio of Master Chefs
+    info :
+      - A Dream Team Meal including a wine selection from the Minds of 3 Master Chefs.
+      - $2,000 per person…$1,600 tax-deductible
+      - $54,400 unrestricted funding in the bank.
+...

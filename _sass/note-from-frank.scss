@@ -1,0 +1,29 @@
+.frank-note {
+  color: $black-color;
+  background-color: $yellow-color-light;
+  box-shadow: 0 0 30px rgba(0, 0, 0, .25);
+  padding: 20px 50px;
+  text-shadow: none;
+  margin: 30px 0;
+
+  h3 {
+    margin-left: 0;
+  }
+
+  p {
+    margin: 20px 0;
+  }
+
+  .sign {
+    margin-right: 50px;
+    margin-bottom: 30px;
+
+    p {
+      margin: 0;
+    }
+
+    .name {
+      font-size: 28pt;
+    }
+  }
+}

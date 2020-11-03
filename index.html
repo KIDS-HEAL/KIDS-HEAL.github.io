@@ -1,0 +1,41 @@
+---
+layout: default
+css-pre:
+  - "//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"
+  - "//cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css"
+  - "/css/main.css"
+js:
+  - "//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"
+  - "/js/carousel.js"
+---
+<div class="main-page">
+  <div class="row">
+    <div class="col-md-12">
+      <!--<h4 class="main-title">Happening NOW!</h4>
+      {% include carousel.html title="Under Construction:" data=site.data.happeningnow type="video" %}-->
+      
+      <h2 class="main-title">Salud / Health</h2>
+      <h2 class="main-title">Cultura / Culture</h2>
+      <h2 class="main-title">Educación / Education</h2>
+      {% include carousel.html title="Cancer education / educación" data=site.data.films.cancer-education type="video" %}
+      {% include carousel.html title="Cancer curriculum / curriculum" data=site.data.films.cancer-curriculum type="video" %}
+      {% include carousel.html title="Coming attractions / " data=site.data.films.season-3 type="video" %}
+      {% include carousel.html title="Temporada 1 / Season 1" data=site.data.films.season-1 type="video" %}
+      {% include carousel.html title="Temporada 2 / Season 2" data=site.data.films.season-2 type="video" %}
+      {% include carousel.html title="Temporada 3 / Season 3" data=site.data.films.season-3 type="video" %}
+      {% include carousel.html title="Salud / Health" data=site.data.films.health type="video" %}
+      {% include carousel.html title="Arte / Art" data=site.data.films.art type="video" %}
+      {% include carousel.html title="Nutrición / Nutrition" data=site.data.films.nutrition type="video" %}
+      {% include carousel.html title="Cultura / Culture" data=site.data.films.culture type="video" %}
+      
+      <h2 class="main-title">Acerca de KIDS-HEAL / About KIDS-HEAL</h2>
+      {% include carousel.html title="" data=site.data.about type="html" %}
+
+      <!--<h2 class="main-title">Artwork</h2>
+      {% include carousel.html title="Skeletons" data=site.data.art.skeletons type="image" %}-->
+
+      <h2 class="main-title">Voces de apoyo / Voices of Support</h2>
+      {% include carousel.html title="" data=site.data.voices type="html" %}
+    </div>
+  </div>
+</div>

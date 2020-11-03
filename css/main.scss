@@ -1,0 +1,74 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import "hacks", "responsive-sizes", "colors", "nav", "footer", "carousel", "modal", "donate";
+
+body {
+  color: $white-color;
+  background-color: $black-color;
+  background-image: url('/img/background.jpg');
+
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16pt;
+
+  text-shadow: 1px 1px rgba(0, 0, 0, .3);
+}
+
+h2 {
+  color: $yellow-color;
+
+  font-family: 'Boogaloo', cursive;
+  font-size: 28pt;
+
+  text-transform: uppercase;
+  text-shadow: 2px 2px rgba(0, 0, 0, .4);
+}
+
+h2.main-title {
+  display: inline-block;
+  padding: 4px 10px;
+  background-color: $orange-color;
+  border-radius: 5px;
+}
+
+h3 {
+  margin-left: 15px;
+
+  color: $orange-color;
+
+  font-family: 'Boogaloo', cursive;
+  font-size: 20pt;
+
+  text-transform: capitalize;
+  text-shadow: 1px 1px rgba(0, 0, 0, .4);
+}
+
+h4 {
+  color: $yellow-color;
+
+  font-family: 'Boogaloo', cursive;
+  font-size: 36pt;
+
+  text-decoration-style: wavy;
+  text-shadow: 2px 2px rgba(0, 0, 0, .4);
+}
+
+h4.main-title {
+  display: inline-block;
+  padding: 4px 10px;
+  background-color: $pink-color;
+  border-radius: 5px;
+}
+
+p {
+  margin-left: 15px;
+}
+
+a {
+  color: $orange-color;
+  text-shadow: 1px 1px rgba(0,0,0,.5);;
+}
+
+@import "budget", "goals-and-accomplishments", "note-from-frank", "supporters";

@@ -1,0 +1,25 @@
+---
+- title     : Voices of Support
+  type      : "video"
+  thumb     : /img/voices-thumb.jpg
+  width     : 500
+  height    : 281
+  url       : https://player.vimeo.com/video/190754772
+
+- title     : A Special Thanks
+  thumb     : /img/special-thanks-thumb.jpg
+  url       : /html/special-thanks.html
+
+- title     : Business Supporters & Individual Donors
+  thumb     : /img/business-supporters-thumb.jpg
+  url       : /html/supporters.html
+
+- title     : Founder
+  thumb     : /img/founder-thumb.jpg
+  thumb-alt : Frank Etxaniz
+  url       : /html/founder.html
+
+- title     : A Note From Frank
+  thumb     : /img/Note-thumb.jpg
+  url       : /html/note-from-frank.html
+...

@@ -1,0 +1,18 @@
+---
+name            : KIDS-HEAL
+url             : kids-heal.org
+address1        : 25 NW 23rd Place
+address2        : Suite 6 PMB 223
+city            : Portland
+state           : Oregon
+state-abbrev    : OR
+zipcode         : 97210
+mission         : 
+  <p>KIDS-HEAL is a statewide, school-based, student-driven, parent-run, after-school arts+healthcare learning laboratory.</p>
+  <p>Its mission is to improve the creative and physical health of children and their families across the state of Oregon and Southwest Washington.</p>
+  <p>We partner children living with long-term healthcare issues with local working artists, athletes and cooks who deliver interactive arts and healthcare programming directly into schools.</p>
+forgotten-corner: The far southeast corner of Oregon consists of four counties&#8282; Baker, Grant, Harney and Malheur. These four counties make up 28.3% of the state, 1.5% of the population, and are home to some of Oregon’s highest hunger, poverty and unemployment rates. 33 of the 34 communities with schools in THE FORGOTTEN CORNER OF OREGON offer only four days of classes each week.
+welcome         : Welcome to kids-heal.org, if you have questions, you can contact us directly at {{#frank}}{{email}}{{/frank}}.
+tax-info        : KIDS-HEAL is a 501(c)3 organization, and donations are deductible to the full extent of tax law.
+tax-id          : 61-1733748
+...

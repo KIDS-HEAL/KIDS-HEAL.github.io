@@ -1,0 +1,57 @@
+---
+- title : Chinese History Month
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/250365133
+  thumb : img/film_thumbs/culture/chinesehistory.jpg 
+
+- title : Mexican History Month!
+  desc  : "Rich culture, rich art, rich tacos"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/237360372
+  thumb : img/film_thumbs/culture/mexicanhistory.jpg
+
+- title : Dia De Los Muertos
+  desc  : Balance is important in everything we do. We balance our work and play, diet and exercise, schedules, checkbooks...the list goes on and on. So we made a song.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/237662669
+  thumb : img/film_thumbs/culture/diadelosmuertos.jpg
+
+- title : Crossfit Career Training
+  desc  : We train our bodies, but we also need to train our minds and our skills
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/206454323
+  thumb : img/film_thumbs/culture/crossfit.jpg
+
+- title : Change
+  desc  : Change is a big part of life and sometimes we need it.  
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/215289641
+  thumb : img/film_thumbs/culture/change.jpg
+
+- title : Jesse Owens and the Olympics
+  desc  : Jesse Owens lead the world to victory against all odds.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/201114048
+  thumb : img/film_thumbs/culture/jesseowens.jpg
+
+- title : Cinque and the Amistad
+  desc  : Cinque was brought to the New World as a slave but never gave up and ended up a free man changing the minds of many in how they view equality.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/201112395
+  thumb : img/film_thumbs/culture/cinque.jpg
+
+- title : Black History Month
+  desc  : Cinque, Jesse Owens, Jean Micheal Basquiat
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/199593147
+  thumb : img/film_thumbs/culture/blackhistorymonth.jpg
+  
+...

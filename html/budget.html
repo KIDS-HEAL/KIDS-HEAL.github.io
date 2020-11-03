@@ -1,0 +1,20 @@
+---
+layout: minimal
+css: /css/main.css
+---
+<div class="budget">
+  <h2>{{ site.data.budget.title }}</h2>
+  <p>{{ site.data.budget.desc }}</p>
+  <div class="table-responsive">
+    <table class="table table-condensed table-responsive table-striped">
+      <thead>
+        <tr><th></th>{% for f in site.data.budget.fields %}<th>{{ f }}</th>{% endfor %}</tr>
+      </thead>
+      <tbody>
+        {% for x in site.data.budget.data %}
+        <tr><th scope="row">{{ x.title }}</th>{% for y in x.amount %}<td>{{ y }}</td>{% endfor %}</tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

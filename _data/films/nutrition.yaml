@@ -1,0 +1,84 @@
+---
+- title : Super Grains
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/194583657
+  thumb : img/film_thumbs/Nutrition/supergrains.jpg 
+
+- title : Tacos
+  desc  : Delicious and diverse
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/262337435
+  thumb : img/film_thumbs/Nutrition/tacos.jpg
+
+- title : Cancer Education Sandwich
+  desc  : This sandwich has it all...
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/215289246
+  thumb : img/film_thumbs/Nutrition/canceredsandwich.jpg
+
+- title : "World History According to: Grapes"
+  desc  : "Grapes are a fantastic berry that serves us well. We're exploring how grapes help us balance a healthy lifestyle, while still getting our sweet fix. Grapes are crushing it!"
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/145103811
+  thumb : img/film_thumbs/segments/grapes.jpg
+
+- title : Tomatoes
+  desc  : A fruity take on this vegetable or...fruit.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/182513593
+  thumb : img/film_thumbs/Nutrition/tomatoes.jpg
+
+- title : Mangos
+  desc  : Mango's, the king of fruits!
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/201110655
+  thumb : img/film_thumbs/Nutrition/mangos.jpg
+
+- title : World History According to a Watermelon
+  desc  : Seedy takes us through the history of the delicious and healthy watermelons.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/137706401
+  thumb : img/film_thumbs/segments/watermelon.jpg
+
+- title : Tamales
+  desc  : Burrito? Sandwich? Who cares, they're delicious and nutritious
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/262339345
+  thumb : img/film_thumbs/Nutrition/tamales.jpg
+ 
+- title : Blueberries
+  desc  : Blueberries are full of antioxidants
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/262338986
+  thumb : img/film_thumbs/Nutrition/blueberries.jpg
+  
+- title : Yogurt
+  desc  : Bacteria isn't all bad, sometimes it's delicious!
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263965047
+  thumb : img/film_thumbs/Nutrition/yogurt.jpg 
+
+- title : Strawberries
+  desc  : These berries have an unusual name...
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263964725
+  thumb : img/film_thumbs/Nutrition/strawberries.jpg
+  
+- title : Carrots
+  desc  : They may not actually help see at night, but they are good for eye health.
+  width : 500
+  height: 281
+  url   : https://player.vimeo.com/video/263963062
+  thumb : img/film_thumbs/Nutrition/carrots.jpg  
+...

@@ -1,0 +1,19 @@
+---
+layout: minimal
+css: /css/main.css
+---
+{% assign frank = site.data.frank %}
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-4">
+    <img alt="{{ frank.first-name }} {{ frank.last-name }}"
+         src="img/Frank.jpg"
+         style="margin-top: 25px;"
+         class="img-responsive center-block">
+  </div>
+  <div class="col-md-6">
+    <h2>Founder</h2>
+    {{ frank.about }}
+  </div>
+  <div class="col-md-1"></div>
+</div>

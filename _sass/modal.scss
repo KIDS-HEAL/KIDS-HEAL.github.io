@@ -1,0 +1,27 @@
+.modal {
+
+  .modal-dialog {
+
+    .modal-header {
+      background-color: $blue-color-dark;
+
+      button.close {
+        color: $white-color;
+      }
+    }
+
+    .modal-body {
+      height: 281px;
+      background-color: $black-color;
+    }
+
+    .modal-footer {
+      background-color: $blue-color-dark;
+    }
+
+    img {
+      max-width: 80%;
+      height: 100%
+    }
+  }
+}

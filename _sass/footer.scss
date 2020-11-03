@@ -1,0 +1,19 @@
+.site-footer {
+  min-height: 70px;
+
+  margin: 0 -15px -30px -15px;
+  padding: 20px;
+
+  color: $purple-color;
+  background-color: $yellow-color;
+
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16pt;
+
+  text-shadow: 1px 1px rgba(0, 0, 0, .3);
+
+  a {
+    color: $orange-color;
+    text-shadow: 1px 1px rgba(0,0,0,.5);;
+  }
+}

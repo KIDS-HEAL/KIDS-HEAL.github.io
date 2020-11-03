@@ -1,0 +1,20 @@
+---
+layout: minimal
+css: /css/main.css
+---
+{% assign frank = site.data.frank %}
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-10">
+    <h2>{{ frank.note.title }}</h2>
+    <div class="frank-note clearfix">
+      {{ frank.note.body | markdownify }}
+      <div class="sign pull-right">
+        <p class="name">{{ frank.first-name }} {{ frank.last-name }}</p>
+        <p>{{ frank.role }}</p>
+        <a href="mailto: {{ frank.email }}">{{ frank.email }}</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-1"></div>
+</div>

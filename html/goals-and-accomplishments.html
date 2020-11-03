@@ -1,0 +1,18 @@
+---
+layout: minimal
+css: /css/main.css
+---
+<h2>Goals and Accomplishments</h2>
+{% for x in site.data.goals-and-accomplishments %}
+<div class="goal-section">
+  <h3>{{ x.title }}</h3>
+  <dl class="goals dl-horizontal">
+    {% for y in x.items %}
+    <dt>{{ y.title }}</dt><dd>{{ y.desc }}</dd>
+    {% endfor %}
+  </dl>
+  {% if x.footnote %}
+  <p class="footnote-alert">{{ x.footnote }}</p>
+  {% endif %}
+</div>
+{% endfor %}

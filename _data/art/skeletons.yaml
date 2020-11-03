@@ -1,0 +1,16 @@
+---
+- url  : img/art/skeletons/skeleton-1.jpg
+  thumb: img/art/skeletons/skeleton-thumb-1.jpg
+
+- url  : img/art/skeletons/skeleton-2.jpg
+  thumb: img/art/skeletons/skeleton-thumb-2.jpg
+
+- url  : img/art/skeletons/skeleton-3.jpg
+  thumb: img/art/skeletons/skeleton-thumb-3.jpg
+
+- url  : img/art/skeletons/skeleton-4.jpg
+  thumb: img/art/skeletons/skeleton-thumb-4.jpg
+
+- url  : img/art/skeletons/skeleton-5.jpg
+  thumb: img/art/skeletons/skeleton-thumb-5.jpg
+...
