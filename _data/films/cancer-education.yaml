@@ -3,10 +3,14 @@
 - title     : Our T-Shirt
   thumb     : img/film_thumbs/cancer-education/C1-1.jpg
   url       : img/cancer-education-content/C1-Drawer1.jpg
+  width     : 500
+  height    : 281
 
 - title     : Our T-Shirt
   thumb     : img/film_thumbs/cancer-education/C1-2.jpg
   url       : img/cancer-education-content/C1-Drawer2.jpg
+  width     : 500
+  height    : 281
 
 - title     : Bacon Boy AR card
   thumb     : img/film_thumbs/cancer-education/C1-3.jpg
