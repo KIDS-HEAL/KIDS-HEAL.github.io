@@ -3,14 +3,12 @@
 - title     : Our T-Shirt
   thumb     : img/film_thumbs/cancer-education/C1-1.jpg
   url       : img/cancer-education-content/C1-Drawer1.jpg
-  width     : 500
-  height    : 281
+  type      : image
 
 - title     : Our T-Shirt
   thumb     : img/film_thumbs/cancer-education/C1-2.jpg
   url       : img/cancer-education-content/C1-Drawer2.jpg
-  width     : 500
-  height    : 281
+  type      : image
 
 - title     : Bacon Boy AR card
   thumb     : img/film_thumbs/cancer-education/C1-3.jpg
@@ -24,51 +22,63 @@
   width     : 500
   height    : 281
 
-- title     : Sinister Sauce AR card
+- title     : Art worksheet poster
   thumb     : img/film_thumbs/cancer-education/C1-5.jpg
   url       : img/cancer-education-content/C1-Drawer5.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Cancer education curriculum
   thumb     : img/film_thumbs/cancer-education/C1-6.jpg
   url       : img/cancer-education-content/english/LIngles-1.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Mission
   thumb     : img/film_thumbs/cancer-education/C1-7.jpg
   url       : img/cancer-education-content/english/LIngles-2.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Cancer Education lesson plan
   thumb     : img/film_thumbs/cancer-education/C1-8.jpg
   url       : img/cancer-education-content/english/LIngles-3.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Production implementation evaluation
   thumb     : img/film_thumbs/cancer-education/C1-9.jpg
   url       : img/cancer-education-content/english/LIngles-4.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : I want to
   thumb     : img/film_thumbs/cancer-education/C1-10.jpg
   url       : img/cancer-education-content/english/LIngles-5.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Gatos locos
   thumb     : img/film_thumbs/cancer-education/C1-11.jpg
   url       : img/cancer-education-content/english/LIngles-6.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Isabella Maria Brown
   thumb     : img/film_thumbs/cancer-education/C1-12.jpg
   url       : img/cancer-education-content/english/LIngles-7.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Dear Frank
   thumb     : img/film_thumbs/cancer-education/C1-13.jpg
   url       : img/cancer-education-content/english/LIngles-8.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : NonProfit project
   thumb     : img/film_thumbs/cancer-education/C1-14.jpg
   url       : img/cancer-education-content/english/LIngles-9.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Earhtquake week
   thumb     : img/film_thumbs/cancer-education/C1-15.jpg
   url       : img/cancer-education-content/english/LIngles-10.jpg
+  type      : image
 
-- title     : Sinister Sauce AR card
+- title     : Kids Heal
   thumb     : img/film_thumbs/cancer-education/C1-16.jpg
   url       : img/cancer-education-content/english/LIngles-11.jpg
+  type      : image
 ...

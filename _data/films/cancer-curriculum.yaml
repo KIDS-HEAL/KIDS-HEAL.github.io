@@ -2,53 +2,66 @@
 
 - title     : Cancer education curriculum
   thumb     : img/film_thumbs/cancer-curriculum/C2-1.jpg
-  url       : img/cancer-curriculum-content/C1-Drawer1.jpg
+  url       : /html/cancer-education-curriculum.html
+  type      : html
 
 - title     : Why is cancer education important
   thumb     : img/film_thumbs/cancer-curriculum/C2-2.jpg
-  url       : img/cancer-curriculum-content/C1-Drawer2.jpg
+  url       : /html/cancer-importance.html
+  type      : html
 
-- title     : Kids-meal
+- title     : Kids-heal
   thumb     : img/film_thumbs/cancer-curriculum/C2-3.jpg
-  url       : img/cancer-curriculum-content/C1-Drawer3.mp4
+  url       : /html/kids-heal-believes.html
+  type      : html
 
 - title     : Schedule + curriculum
   thumb     : img/film_thumbs/cancer-curriculum/C2-4.jpg
-  url       : img/cancer-curriculum-content/C1-Drawer4.mp4
+  url       : img/cancer-curriculum-content/C2-Drawer4.jpg
+  type      : image
 
 - title     : Questionnaire
   thumb     : img/film_thumbs/cancer-curriculum/C2-5.jpg
-  url       : img/cancer-curriculum-content/C1-Drawer5.jpg
+  url       : img/cancer-curriculum-content/C2-Drawer5.jpg
+  type      : image
 
 - title     : Pre-assesment
   thumb     : img/film_thumbs/cancer-curriculum/C2-6.jpg
   url       : img/cancer-curriculum-content/english/LIngles-1.jpg
+  type      : image
 
 - title     : Mariachi rap
   thumb     : img/film_thumbs/cancer-curriculum/C2-7.jpg
   url       : img/cancer-curriculum-content/english/LIngles-2.jpg
+  type      : image
 
 - title     : History of cancer film
   thumb     : img/film_thumbs/cancer-curriculum/C2-8.jpg
-  url       : img/cancer-curriculum-content/english/LIngles-3.jpg
+  url       : /html/history-of-cancer.html
+  type      : html
 
 - title     : Poster
   thumb     : img/film_thumbs/cancer-curriculum/C2-9.jpg
-  url       : img/cancer-curriculum-content/english/LIngles-4.jpg
+  url       : /html/cancer-poster.html
+  type      : video
 
 - title     : Art of cancer film
   thumb     : img/film_thumbs/cancer-curriculum/C2-10.jpg
-  url       : img/cancer-curriculum-content/english/LIngles-5.jpg
+  url       : /html/art-of-cancer.html
+  type      : html
 
 - title     : AR cards
   thumb     : img/film_thumbs/cancer-curriculum/C2-11.jpg
-  url       : img/cancer-curriculum-content/english/LIngles-6.jpg
+  url       : img/cancer-curriculum-content/C2-Drawer11A.jpg
+  type      : image
 
 - title     : Sandwhich and Taco
   thumb     : img/film_thumbs/cancer-curriculum/C2-12.jpg
-  url       : img/cancer-curriculum-content/english/LIngles-7.jpg
+  url       : /html/sandwich-taco.html
+  type      : html
 
 - title     : Poster
   thumb     : img/film_thumbs/cancer-curriculum/C2-13.jpg
-  url       : img/cancer-curriculum-content/english/LIngles-8.jpg
+  url       : /html/worksheet-poster.html
+  type      : html
 ...
